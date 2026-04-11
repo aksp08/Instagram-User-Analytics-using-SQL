@@ -34,13 +34,19 @@ MySQL, MySQL Workbench, Microsoft Excel (for exporting query outputs)
 
 SQL Skills Applied:
 
-Joins (INNER JOIN, LEFT JOIN)
-Aggregations (COUNT, ROUND)
-Subqueries
-GROUP BY and HAVING
-Date functions (DAYNAME)
-Data filtering (WHERE)
-Analytical problem solving with SQL
+-Joins (INNER JOIN, LEFT JOIN)
+
+-Aggregations (COUNT, ROUND)
+
+-Subqueries
+
+-GROUP BY and HAVING
+
+-Date functions (DAYNAME)
+
+-Data filtering (WHERE)
+
+-Analytical problem solving with SQL
 
 
 **Approach**
